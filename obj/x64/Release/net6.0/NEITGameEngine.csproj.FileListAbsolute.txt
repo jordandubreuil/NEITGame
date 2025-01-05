@@ -38,3 +38,4 @@ C:\Users\jorda\Downloads\Working\NEITGameEngine\NEITGameEngine\obj\x64\Release\n
 C:\Users\jorda\Downloads\Working\NEITGameEngine\NEITGameEngine\obj\x64\Release\net6.0\NEITGameEngine.pdb
 C:\Users\jorda\Downloads\Working\NEITGameEngine\NEITGameEngine\obj\x64\Release\net6.0\NEITGameEngine.genruntimeconfig.cache
 C:\Users\jorda\Downloads\Working\NEITGameEngine\NEITGameEngine\obj\x64\Release\net6.0\ref\NEITGameEngine.dll
+C:\Users\jorda\Downloads\Working\NEITGameEngine\NEITGameEngine\obj\x64\Release\net6.0\NEITGameEngine.sourcelink.json

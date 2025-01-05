@@ -1,3 +1,3 @@
 ﻿
-using var game = new NEITGameEngine.MainGame();
+using var game = new NEITGameEngine.Editor.Editor();
 game.Run();

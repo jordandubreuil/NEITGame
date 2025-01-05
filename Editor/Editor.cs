@@ -5,7 +5,7 @@ using System.Collections.Generic;
 
 namespace NEITGameEngine.Editor
 {
-    public class Editor : MainGame
+    public class Editor : Game
     {
         private GraphicsDeviceManager _graphics;
         private SpriteBatch _spriteBatch;
@@ -41,7 +41,7 @@ namespace NEITGameEngine.Editor
             _spriteBatch = new SpriteBatch(GraphicsDevice);
 
             // Load tileset
-            _tileset = Content.Load<Texture2D>("tileset");
+            _tileset = Content.Load<Texture2D>("groundtile");
             GenerateTileRectangles();
         }
 
